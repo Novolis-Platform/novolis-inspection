@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Novolis.Inspection.Http/Novolis.Inspection.Http.csproj" />
+    <Project Path="src/Novolis.Inspection.Json/Novolis.Inspection.Json.csproj" />
+    <Project Path="src/Novolis.Inspection.ObjectGraph/Novolis.Inspection.ObjectGraph.csproj" />
+    <Project Path="src/Novolis.Inspection.Xml/Novolis.Inspection.Xml.csproj" />
+    <Project Path="src/Novolis.Inspection/Novolis.Inspection.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Novolis.Inspection.Unit/Novolis.Inspection.Unit.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Inspection.Http</PackageId>
+    <RootNamespace>Novolis.Inspection.Http</RootNamespace>
+    <Description>HTTP message inspection document formatter.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Novolis.Inspection\Novolis.Inspection.csproj" />
+  </ItemGroup>
+</Project>

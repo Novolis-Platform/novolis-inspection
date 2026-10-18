@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="TUnit" />
+    <ProjectReference Include="..\..\src\Novolis.Inspection.Http\Novolis.Inspection.Http.csproj" />
+    <ProjectReference Include="..\..\src\Novolis.Inspection.Json\Novolis.Inspection.Json.csproj" />
+    <ProjectReference Include="..\..\src\Novolis.Inspection.ObjectGraph\Novolis.Inspection.ObjectGraph.csproj" />
+    <ProjectReference Include="..\..\src\Novolis.Inspection.Xml\Novolis.Inspection.Xml.csproj" />
+  </ItemGroup>
+</Project>

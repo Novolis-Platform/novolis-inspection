@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Inspection.ObjectGraph</PackageId>
+    <RootNamespace>Novolis.Inspection.ObjectGraph</RootNamespace>
+    <Description>Reflection-based object graph inspection formatter.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Novolis.Inspection\Novolis.Inspection.csproj" />
+  </ItemGroup>
+</Project>
