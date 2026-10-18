@@ -1,7 +1,5 @@
 # Novolis.Inspection
 
-Inspection document and tree contracts.
+UI-independent inspection documents and trees.
 
-```powershell
-dotnet add package Novolis.Inspection
-```
+Install from nuget.org or GitHub Packages.

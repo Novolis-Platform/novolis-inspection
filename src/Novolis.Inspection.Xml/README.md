@@ -1,7 +1,5 @@
 # Novolis.Inspection.Xml
 
-XML to inspection-tree formatter.
+XML inspection document formatter.
 
-```powershell
-dotnet add package Novolis.Inspection.Xml
-```
+Install from nuget.org or GitHub Packages.

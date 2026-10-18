@@ -1,7 +1,5 @@
 # Novolis.Inspection.ObjectGraph
 
-Cycle-safe reflection object graph formatter.
+Reflection-based object graph inspection formatter.
 
-```powershell
-dotnet add package Novolis.Inspection.ObjectGraph
-```
+Install from nuget.org or GitHub Packages.

@@ -1,7 +1,5 @@
 # Novolis.Inspection.Http
 
-HTTP message to inspection-tree formatter.
+HTTP message inspection document formatter.
 
-```powershell
-dotnet add package Novolis.Inspection.Http
-```
+Install from nuget.org or GitHub Packages.

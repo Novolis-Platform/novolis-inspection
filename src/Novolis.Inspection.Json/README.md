@@ -1,7 +1,5 @@
 # Novolis.Inspection.Json
 
-JSON to inspection-tree formatter.
+JSON inspection document formatter.
 
-```powershell
-dotnet add package Novolis.Inspection.Json
-```
+Install from nuget.org or GitHub Packages.
